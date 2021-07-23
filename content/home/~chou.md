@@ -3,8 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Yuanjue Chou
-subtitle:
+
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -18,7 +17,4 @@ design:
 <frame name="main" src="https://geek-college.xyz/" scrolling="auto" noresize>
 </frameset> 
 </head> 
-<body>
-<a href="https://geek-college.xyz/">Yuanjue Chou|Geek College</a> 
-</body>
  </html>
