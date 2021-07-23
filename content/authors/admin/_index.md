@@ -43,7 +43,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/YuanjueC
-- icon: ocrid
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0227-6214
 - icon: github
@@ -64,7 +64,8 @@ email: "vsixadafahin5677@gmail.com"
 highlight_name: false
 ---
 
-Yuanjue Chou is a tutor of mathematics at the Geek College of Science as well as a student of MCS. His research interests include algebraic geometry, category theory and some bas mathematical branches. He is committed to providing a friendly introduction to higher mathematics to non-majors
+Yuanjue Chou is a tutor of mathematics at the Geek College of Science as well as a student of MCS. His research interests include algebraic geometry, category theory and some basic mathematical branches. He is committed to providing a friendly introduction to higher mathematics to non-majors.
 
 *"Il nous montre une correspondance subtile et fine, comme venue du vide."*
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
